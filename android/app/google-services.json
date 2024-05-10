@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310016123238",
+    "project_id": "mynts-fire-learn",
+    "storage_bucket": "mynts-fire-learn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310016123238:android:bf2ec48caa5bb33a67e8a7",
+        "android_client_info": {
+          "package_name": "com.appropriatestores.note.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeBkfHausROHKQDHGhOb5TTa-algRcHd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
